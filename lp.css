@@ -212,7 +212,7 @@
 }
 
 /* Responsive styles */
-@media (max-width: 748px) and (min-width: 400px){
+@media (max-width: 748px) and (min-width: 600px){
   .container{
     width: 100%;
     margin: 0px;
@@ -263,7 +263,7 @@
 }
 }
 
-@media (max-width: 440px){
+@media (max-width: 600px){
     .container{
       width: 90%;
       margin: 5%;
